@@ -1,5 +1,5 @@
 {
-    "name": "⚡️⚡️MTboyzAUTO ⚡️⚡️",
+    "name": "⚡️📥⚡️MTboyzAUTO2 ⚡️📥⚡️",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MTboyz/MTboyzAuto",
-    "repository": "https://github.com/MTboyz/MTboyzAuto",
+    "website": "https://github.com/MTboyz/MTboyzAuto2",
+    "repository": "https://github.com/MTboyz/MTboyzAuto2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
